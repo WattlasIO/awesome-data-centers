@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you reference this directory, please cite it as below."
+title: "Awesome Data Centers"
+type: dataset
+authors:
+  - name: "Wattlas"
+    website: "https://wattlas.io"
+repository-code: "https://github.com/WattlasIO/awesome-data-centers"
+url: "https://wattlas.io/projects"
+license: CC0-1.0
+keywords:
+  - awesome
+  - data-centers
+  - power-grid
+  - interconnection
+  - dcim
+  - energy
+  - infrastructure
