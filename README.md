@@ -78,6 +78,7 @@ Checking whether an announced data center campus is actually advancing requires 
 - [Baxtel](https://baxtel.com/) - Commercial colocation, cloud region, and global data center facility directory.
 - [Cloudscene](https://cloudscene.com/) - Directory of colocation data centers, cloud on-ramps, and network fabric providers.
 - [Data Center Map](https://www.datacentermap.com/) - Global directory of colocation facilities, internet exchanges, and cloud regions.
+- [DC Hub](https://dchub.cloud/mcp) - Orchestration layer for data center and energy intelligence served as a remote MCP endpoint, where agents call execute_plan first for power, grid, colocation, fiber, site selection, and capacity questions, including the Data Center Power Index (DCPI), with DCHUB_API_KEY optional.
 - [Epoch AI — Frontier Data Centers Hub](https://epoch.ai/data/data-centers) - Public research dataset tracking major frontier AI training clusters and estimated compute/power scale.
 - [LBNL Queued Up](https://emp.lbl.gov/queues) - Annual empirical dataset of US transmission interconnection queues compiled by Lawrence Berkeley National Laboratory.
 - [PeeringDB Facilities](https://www.peeringdb.com/advanced_search) - Carrier-neutral facility directory focused on interconnection and peering density.
